@@ -1,8 +1,13 @@
 {
     "themeOnePricingSection": {
+        "iconClass": "far fa-lightbulb text-primary mr-1",
+        "preHeading": "Flexible",
+        "preHeadingspan": "Pricing",
         "heading": "Unlock Full Power Of sApp",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "text": "Not sure what to choose?",
+        "textLink": "Contact Us",
         "pricingData": [
             {
                 "id": 1,
