@@ -1,0 +1,39 @@
+"themeOnePricingSection": {
+    "heading": "Unlock Full Power Of sApp",
+    "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+    "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+    "pricingList": [
+        {
+            "id": 1,
+            "listOne": "5GB Linux Web Space",
+            "listTwo": "5 MySQL Databases",
+            "listThree": "24/7 Tech Support",
+            "listFour": "Daily Backups"
+        },
+        {
+            "id": 2,
+            "listOne": "10GB Linux Web Space",
+            "listTwo": "50 MySQL Databases",
+            "listThree": "Unlimited Email",
+            "listFour": "Daily Backups"
+        }
+    ],
+    "pricingData": [
+        {
+            "id": 1,
+            "planImage": "assets/img/pricing/basic.png",
+            "planTitle": "Basic",
+            "priceSub": "$",
+            "planPrice": "49",
+            "planBtn": "Sign Up"
+        },
+        {
+            "id": 2,
+            "planImage": "assets/img/pricing/premium.png",
+            "planTitle": "Pro",
+            "priceSub": "$",
+            "planPrice": "149",
+            "planBtn": "Sign Up"
+        }
+    ]
+}
