@@ -39,6 +39,8 @@
         "heading": "Frequently asked questions",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "faqText": "Haven't find suitable answer?",
+        "faqTextLink": "Tell us what you need.",
         "faqData": [
             {
                 "id": 1,
