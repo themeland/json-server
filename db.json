@@ -75,5 +75,54 @@
                 "content": "The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text."
             }
         ]
+    },
+    "themeOneTeamSection": {
+        "heading": "Our Team Experts",
+        "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
+        "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
+        "teamData": [
+            {
+                "id": 1,
+                "image": "assets/img/avatar/avatar-1.png",
+                "title": "Junaid Hasan",
+                "teamPost": "Founder & CEO"
+            },
+            {
+                "id": 2,
+                "image": "assets/img/avatar/avatar-2.png",
+                "title": "Jassica William",
+                "teamPost": "Co-Founder"
+            },
+            {
+                "id": 3,
+                "image": "assets/img/avatar/avatar-3.png",
+                "title": "Md. Arham",
+                "teamPost": "Web Designer"
+            },
+            {
+                "id": 4,
+                "image": "assets/img/avatar/avatar-4.png",
+                "title": "Yasmin Akter",
+                "teamPost": "Graphic Designer"
+            }
+        ],
+        "teamIcons": [
+            {
+                "id": 1,
+                "iconClass": "fab fa-facebook-f"
+            },
+            {
+                "id": 2,
+                "iconClass": "fab fa-twitter"
+            },
+            {
+                "id": 3,
+                "iconClass": "fab fa-google-plus-g"
+            },
+            {
+                "id": 4,
+                "iconClass": "fab fa-linkedin-in"
+            }
+        ]
     }
 }
