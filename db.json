@@ -3,50 +3,6 @@
         "heading": "Unlock Full Power Of sApp",
         "headingText": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati dignissimos quae quo ad iste ipsum officiis deleniti asperiores sit.",
         "headingTexttwo": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Laborum obcaecati.",
-        "pricingList": [
-            {
-                "id": 1,
-                "text": [
-                    {
-                        "id": 1,
-                        "content": "5GB Linux Web Space"
-                    },
-                    {
-                        "id": 2,
-                        "content": "5 MySQL Databases"
-                    },
-                    {
-                        "id": 3,
-                        "content": "24/7 Tech Support"
-                    },
-                    {
-                        "id": 4,
-                        "content": "Daily Backups"
-                    }
-                ]
-            },
-            {
-                "id": 2,
-                "text": [
-                    {
-                        "id": 1,
-                        "content": "10GB Linux Web Space"
-                    },
-                    {
-                        "id": 2,
-                        "content": "50 MySQL Databases"
-                    },
-                    {
-                        "id": 3,
-                        "content": "Unlimited Email"
-                    },
-                    {
-                        "id": 4,
-                        "content": "Daily Backups"
-                    }
-                ]
-            }
-        ],
         "pricingData": [
             {
                 "id": 1,
@@ -54,7 +10,11 @@
                 "planTitle": "Basic",
                 "priceSub": "$",
                 "planPrice": "49",
-                "planBtn": "Sign Up"
+                "planBtn": "Sign Up",
+                "li_1": "5GB Linux Web Space",
+                "li_2": "5 MySQL Databases",
+                "li_3": "24/7 Tech Support",
+                "li_4": "Daily Backups"
             },
             {
                 "id": 2,
@@ -62,7 +22,11 @@
                 "planTitle": "Pro",
                 "priceSub": "$",
                 "planPrice": "149",
-                "planBtn": "Sign Up"
+                "planBtn": "Sign Up",
+                "li_1": "10GB Linux Web Space",
+                "li_2": "50 MySQL Databases",
+                "li_3": "Unlimited Email",
+                "li_4": "Daily Backups"
             }
         ]
     }
