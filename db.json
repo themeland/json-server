@@ -6,17 +6,27 @@
         "pricingList": [
             {
                 "id": 1,
-                "listOne": "5GB Linux Web Space",
-                "listTwo": "5 MySQL Databases",
-                "listThree": "24/7 Tech Support",
-                "listFour": "Daily Backups"
+                "priceList": [
+                    {
+                        "id": 1,
+                        "listOne": "5GB Linux Web Space",
+                        "listTwo": "5 MySQL Databases",
+                        "listThree": "24/7 Tech Support",
+                        "listFour": "Daily Backups"
+                    }
+                ]
             },
             {
                 "id": 2,
-                "listOne": "10GB Linux Web Space",
-                "listTwo": "50 MySQL Databases",
-                "listThree": "Unlimited Email",
-                "listFour": "Daily Backups"
+                "priceList": [
+                    {
+                        "id": 1,
+                        "listOne": "10GB Linux Web Space",
+                        "listTwo": "50 MySQL Databases",
+                        "listThree": "Unlimited Email",
+                        "listFour": "Daily Backups"
+                    }
+                ]
             }
         ],
         "pricingData": [
