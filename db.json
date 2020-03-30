@@ -11,7 +11,7 @@
         "pricingData": [
             {
                 "id": 1,
-                "planImage": "assets/img/pricing/basic.png",
+                "planImage": "/img/price_basic.png",
                 "planTitle": "Basic",
                 "priceSub": "$",
                 "planPrice": "49",
@@ -23,7 +23,7 @@
             },
             {
                 "id": 2,
-                "planImage": "assets/img/pricing/premium.png",
+                "planImage": "/img/price_premium.png",
                 "planTitle": "Pro",
                 "priceSub": "$",
                 "planPrice": "149",
@@ -111,25 +111,25 @@
         "teamData": [
             {
                 "id": 1,
-                "image": "assets/img/avatar/avatar-1.png",
+                "image": "/img/avatar-1.png",
                 "title": "Junaid Hasan",
                 "teamPost": "Founder & CEO"
             },
             {
                 "id": 2,
-                "image": "assets/img/avatar/avatar-2.png",
+                "image": "/img/avatar-2.png",
                 "title": "Jassica William",
                 "teamPost": "Co-Founder"
             },
             {
                 "id": 3,
-                "image": "assets/img/avatar/avatar-3.png",
+                "image": "/img/avatar-3.png",
                 "title": "Md. Arham",
                 "teamPost": "Web Designer"
             },
             {
                 "id": 4,
-                "image": "assets/img/avatar/avatar-4.png",
+                "image": "/img/avatar-4.png",
                 "title": "Yasmin Akter",
                 "teamPost": "Graphic Designer"
             }
